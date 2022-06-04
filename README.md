@@ -1,7 +1,8 @@
 # Lab1
-Project elements:
+Lab goals and outcomes:
 
-Use the command line interface (CLI) of your operating system to create a number of folders
-List the folders in a tree-like structure
-Use the ping command, and practice using the break keyboard sequence
-Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+Part 1: Install and setup your personal computer with the software tools required for this course
+Part 2: Practice using software tools
+Part 3: Practice terminal or shell commands
+Part 4: Practice keyboard shortcuts
+Part 5: Create your first Node.js server-side JavaScript file
