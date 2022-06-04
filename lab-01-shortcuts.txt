@@ -1,0 +1,15 @@
+1. command c
+2. Command v
+3. Command x
+4. Ctrl s
+5. ctrl + shift + /
+6. Ctrl + /
+7. Option + right arrow
+8. Option + left arrow
+9. Shift + option + right arrow
+10. Shift + option+ left arrow
+11. Option + shift + down arrow
+12. Shift + command + right arrow
+13. Command + left arrow
+14. Command + right arrow
+15. Command + up arrow
